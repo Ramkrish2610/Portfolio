@@ -54,7 +54,7 @@ html {
 /* 8888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888 */
 
 #home{
-    width:device-width;
+    width:100%;
     background-color: antiquewhite;
     padding: 200px;
     padding-bottom: 300px;
